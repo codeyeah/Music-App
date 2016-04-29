@@ -4,7 +4,7 @@ Music App built on MVC architecture using JSP, Java and MySQL with User and Admi
 Users can not only listen and download songs but can also request new songs.
 Admin can see the requests and add new songs and albums.
 
-## How to Setup
+### How to Setup
 
 * Create a mysql database 'musicapp' and import the sql from the file 'musicapp.sql'
 * Import the 'MusicApp.war' file in your Java EE IDE (Eclipse or NetBeans)
@@ -12,7 +12,7 @@ Admin can see the requests and add new songs and albums.
   * Download Tomcat from here: https://tomcat.apache.org/download-70.cgi
 * After import you can run the project.
 
-## Login Credentials
+### Login Credentials
 * User
   * Username - user
   * Password - testuser
